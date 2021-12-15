@@ -13,6 +13,7 @@ namespace AdventOfCode0302
         {
             var oxygenInput = File.ReadAllLines("..\\..\\input.txt").ToList();
             var CO2Input = File.ReadAllLines("..\\..\\input.txt").ToList();
+
             var oxygenGeneratorRating = "";
             var CO2ScrubberRating = "";
 
@@ -87,7 +88,6 @@ namespace AdventOfCode0302
             Console.WriteLine(solution);
 
             Console.ReadLine();
-
         }
     }
 }
