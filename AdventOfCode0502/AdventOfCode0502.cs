@@ -111,6 +111,8 @@ namespace AdventOfCode0502
             }
 
             Console.WriteLine(Environment.NewLine + counter);
+
+            Console.ReadLine();
         }
     }
 }

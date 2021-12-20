@@ -42,6 +42,8 @@ namespace AdventOfCode0602
             }
 
             Console.WriteLine(counter);
+
+            Console.ReadLine();
         }
     }
 }

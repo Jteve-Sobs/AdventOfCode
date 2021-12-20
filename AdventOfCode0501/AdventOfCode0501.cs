@@ -76,6 +76,9 @@ namespace AdventOfCode0501
                 }
             }
 
+            Console.WriteLine(counter);
+
+            Console.ReadLine();
         }
     }
 }
